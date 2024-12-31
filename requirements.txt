@@ -1,1 +1,1 @@
-normal temp text
+{'data': 'value'}
